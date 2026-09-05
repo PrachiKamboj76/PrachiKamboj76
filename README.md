@@ -8,7 +8,7 @@ I enjoy working with data, finding meaningful insights, and creating clean and i
 
 ## 🛠️ Skills & Tools
 
-- Python
+- Python (Pandas)
 - SQL
 - MySQL
 - Excel
