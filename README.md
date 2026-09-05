@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Prachi Kamboj
 
-<!--
-**PrachiKamboj76/PrachiKamboj76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BCA Graduate | 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am a BCA graduate currently learning and building my skills in Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, finding meaningful insights, and creating clean and interactive dashboards.
+
+## 🛠️ Skills & Tools
+
+- Python
+- SQL
+- MySQL
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+
+## 📂 Projects
+
+### 📊 Customer Behavior Analysis
+**Tools:** Python, MySQL, Power BI
+
+### 🛒 Blinkit Sales Dashboard
+**Tools:** Power BI
+
+### 🍕 Pizza Sales Dashboard
+**Tools:** Power BI
+
+### 👗 Teen Fashion E-Commerce Website
+**Tools:** HTML, CSS, JavaScript, React, Flask, MySQL
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI & DAX
+- Python for Data Analytics
+- Statistics for Data Analysis
+
+## 🎯 Career Goal
+
+I am aspiring to start my career as a Data Analyst and continuously improve my skills by working on real-world data projects.
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/prachi-kamboj-0a3966288
+- Email: prachikamboj247@gmail.com
